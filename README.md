@@ -1,4 +1,4 @@
 # Trabajo-Final-Analisis-de-Datos
- Si existen patrones compartidos entre diferentes tipos de ataques DDOS, ¿puede un modelo de Machine Learning aprender dichos patrones y utilizarlos para detectar ataques que no ha observado durante su entrenamiento?
+¿Qué patrones del tráfico de red permiten diferenciar el tráfico normal de los distintos tipos de ataques DDoS en dispositivos IoT?
 
 Repositorio: https://www.kaggle.com/datasets/siddharthm1698/ddos-botnet-attack-on-iot-devices
